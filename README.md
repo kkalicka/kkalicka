@@ -29,3 +29,9 @@ creative solutions.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkalicka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :fire: My Stats :
+(I am aware that this is not impressive yet, although I am going to change it soon :))
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kkalicka&theme=dark&background=000000)](https://git.io/streak-stats)
