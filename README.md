@@ -3,7 +3,7 @@
 
 ### :woman_technologist: About Me :
 
-I am in the last semester of engineering studies connected with IT.
+I am on the last semester of engineering studies connected with IT.
 I know that what features me the most is my analytical mind and finding
 creative solutions.
 
