@@ -1,7 +1,7 @@
 ### Hi there!👋
 ---
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
 I am in the 5 year of engineering studies connected with IT.
 I know that what features me the most is my analytical mind and finding
@@ -13,11 +13,11 @@ creative solutions.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools: 
+### 🛠️ Languages and Tools: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Jupyter" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VS code" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  title="C++" alt="cpp" width="40" height="40"/>&nbsp;
